@@ -1,2 +1,7 @@
+## 使用方法：
 
-[![沙漠中的岩石图片](./com.weibo.svg "weibo.com")](https://weibo.com/)
+名称 | 徽标 | 地址
+:-  | -- | :-
+[微博](https://weibo.com/) | ![微博](./com.weibo.svg "weibo.com") | -
+[Google](https://www.google.com/ncr) | ![Google](./com.google.mail.svg "gmail.com") | https://raw.gitmirror.com/chenzhenyuan/file/image/com.google.www
+[淘宝](https://taobao.com) | - | https://raw.gitmirror.com/chenzhenyuan/file/image/com.taobao
