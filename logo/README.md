@@ -1,10 +1,10 @@
 ## 使用方法：
 
-- GitHub域：https://raw.githubusercontent.com/chenzhenyuan/file/image/logo/
+- GitHub域：https://raw.githubusercontent.com/chenzhenyuan/file/image/logo
 
-- 国内加速器：https://raw.iqiq.io/chenzhenyuan/file/image/logo/
+- 国内加速器：https://raw.iqiq.io/chenzhenyuan/file/image/logo
 
-- 国内加速器：https://raw.gitmirror.com/chenzhenyuan/file/image/logo/
+- 国内加速器：https://raw.gitmirror.com/chenzhenyuan/file/image/logo
 
 <!--
 <img width="48" src="./" />
@@ -17,7 +17,7 @@
 
 站点 | 徽标 | 地址
 :-- | :-: | :--
-百度 | <img width="48" src="./com.baidu.svg" /> | /com.baidu.svg
+百度 | <img width="48" src="./com.baidu.svg" /> | [加速 1](https://raw.iqiq.io/chenzhenyuan/file/image/logo/com.baidu.svg) [加速2](https://raw.gitmirror.com/chenzhenyuan/file/image/logo/com.baidu.svg )
 百度智能云 | <img width="48" src="./com.baidu.cloud.svg" /> | /com.baidu.cloud.svg
 淘宝 | <img width="48" src="./com.taobao.svg" /> | /com.taobao.svg
 网易 | <img width="48" src="./com.163.svg" /> | /com.163.svg
