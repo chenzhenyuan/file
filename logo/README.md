@@ -18,6 +18,8 @@ gitHub域：https://raw.githubusercontent.com
 网易 | <img width="48" src="./com.163.svg" /> | /chenzhenyuan/file/image/logo/com.163.svg
 微博 | <img width="48" src="./com.weibo.svg" /> | /chenzhenyuan/file/image/logo/com.weibo.svg
 知乎 | <img width="48" src="./com.zhihu.svg" /> | /chenzhenyuan/file/image/logo/com.zhihu.svg
+开源中国 | <img width="48" src="./net.oschina.svg" /> | /chenzhenyuan/file/image/logo/net.oschina.svg
+ 
  
 Site Name | LOGO | raw mirror
 :-- | :-: | :--
