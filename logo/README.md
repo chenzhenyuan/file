@@ -12,13 +12,8 @@
 源域：https://raw.githubusercontent.com
 加速：https://raw.iqiq.io
 加速：https://raw.gitmirror.com
-
 -->
 
-[iqiq]:https://raw.iqiq.io
-
-https://github.com/chenzhenyuan/file/blob/image/chenzhenyuan/file/image/logo/com.baidu.svg
-https://github.com/chenzhenyuan/file/blob/image/logo/com.baidu.svg
 
 站点 | 徽标 | 地址
 :-- | :-: | :--
