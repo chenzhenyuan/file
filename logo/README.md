@@ -25,7 +25,6 @@ Facebook | <img width="48" src="./com.facebook.svg" /> | /chenzhenyuan/file/imag
 GitHub | <img width="48" src="./com.github.svg" /> | /chenzhenyuan/file/image/logo/com.github.svg
 Gmail | <img width="48" src="./com.google.mail.svg" /> | /chenzhenyuan/file/image/logo/com.google.mail.svg
 Google | <img width="48" src="./com.google.svg" /> | /chenzhenyuan/file/image/logo//com.google.svg
-Google | <img width="48" src="./com.google.svg" /> | /chenzhenyuan/file/image/logo//com.google.svg
 Twitter | <img width="48" src="./com.twitter.svg"> | /chenzhenyuan/file/image/logo/com.twitter.svg
 Vimeo | <img width="48" src="./com.vimeo.svg" /> | /chenzhenyuan/file/image/logo/com.vimeo.svg
 Youtube | <img width="48" src="./com.youtube.svg" /> | /chenzhenyuan/file/image/logo/com.youtube.svg
