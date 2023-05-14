@@ -7,13 +7,14 @@ gitHub域：https://raw.githubusercontent.com
 <img width="48" src="./" />
 
 源域：https://raw.githubusercontent.com
+加速：https://raw.iqiq.io
 加速：https://raw.gitmirror.com
 
 -->
 
 站点 | 徽标 | 地址
 :-- | :-: | :--
-百度 | <img width="48" src="./com.baidu.svg" /> | /chenzhenyuan/file/image/logo/com.baidu.svg
+百度 | <img width="48" src="./com.baidu.svg" /> | ![加速 1](https://raw.iqiq.io/chenzhenyuan/file/image/logo/com.baidu.svg "百度")
 百度智能云 | <img width="48" src="./com.baidu.cloud.svg" /> | /chenzhenyuan/file/image/logo/com.baidu.cloud.svg
 淘宝 | <img width="48" src="./com.taobao.svg" /> | /chenzhenyuan/file/image/logo/com.taobao.svg
 网易 | <img width="48" src="./com.163.svg" /> | /chenzhenyuan/file/image/logo/com.163.svg
