@@ -27,9 +27,9 @@
 Site Name | Logo | Raw Mirror
 :-- | :-: | :-:
 Facebook | <img width="48" src="./com.facebook.svg" /> | [加速1](https://raw.iqiq.io/chenzhenyuan/file/image/logo/com.facebook.svg) \| [加速2](https://raw.gitmirror.com/chenzhenyuan/file/image/logo/com.facebook.svg)
-GitHub | <img width="48" src="./com.github.svg" /> | [加速1](https://raw.iqiq.io/chenzhenyuan/file/image/logo/com.github.svg) [加速2](https://raw.gitmirror.com/chenzhenyuan/file/image/logo/com.github.svg)
-Gmail | <img width="48" src="./com.google.mail.svg" /> | /chenzhenyuan/file/image/logo/com.google.mail.svg
-Google | <img width="48" src="./com.google.svg" /> | /chenzhenyuan/file/image/logo//com.google.svg
-Twitter | <img width="48" src="./com.twitter.svg"> | /chenzhenyuan/file/image/logo/com.twitter.svg
-Vimeo | <img width="48" src="./com.vimeo.svg" /> | /chenzhenyuan/file/image/logo/com.vimeo.svg
-Youtube | <img width="48" src="./com.youtube.svg" /> | /chenzhenyuan/file/image/logo/com.youtube.svg
+GitHub | <img width="48" src="./com.github.svg" /> | [加速1](https://raw.iqiq.io/chenzhenyuan/file/image/logo/com.github.svg) \| [加速2](https://raw.gitmirror.com/chenzhenyuan/file/image/logo/com.github.svg)
+Gmail | <img width="48" src="./com.google.mail.svg" /> | [加速1](https://raw.iqiq.io/chenzhenyuan/file/image/logo/com.google.mail.svg) \| [加速2](https://raw.gitmirror.com/chenzhenyuan/file/image/logo/com.google.mail.svg)
+Google | <img width="48" src="./com.google.svg" /> | [加速1](https://raw.iqiq.io/chenzhenyuan/file/image/logo/com.google.svg) \| [加速2](https://raw.gitmirror.com/chenzhenyuan/file/image/logo/com.google.svg)
+Twitter | <img width="48" src="./com.twitter.svg"> | [加速1](https://raw.iqiq.io/chenzhenyuan/file/image/logo/com.twitter.svg) \| [加速2](https://raw.gitmirror.com/chenzhenyuan/file/image/logo/com.twitter.svg)
+Vimeo | <img width="48" src="./com.vimeo.svg" /> | [加速1](https://raw.iqiq.io/chenzhenyuan/file/image/logo/com.vimeo.svg) \| [加速2](https://raw.gitmirror.com/chenzhenyuan/file/image/logo/com.vimeo.svg)
+Youtube | <img width="48" src="./com.youtube.svg" /> | [加速1](https://raw.iqiq.io/chenzhenyuan/file/image/logo/com.youtube.svg) \| [加速2](https://raw.gitmirror.com/chenzhenyuan/file/image/logo/com.youtube.svg)
