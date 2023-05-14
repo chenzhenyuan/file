@@ -1,10 +1,10 @@
 ## 使用方法：
 
-- GitHub域：https://raw.githubusercontent.com
+- GitHub域：https://raw.githubusercontent.com/chenzhenyuan/file/image/logo/
 
-- 国内加速器：https://raw.iqiq.io
+- 国内加速器：https://raw.iqiq.io/chenzhenyuan/file/image/logo/
 
-- 国内加速器：https://raw.gitmirror.com
+- 国内加速器：https://raw.gitmirror.com/chenzhenyuan/file/image/logo/
 
 <!--
 <img width="48" src="./" />
@@ -18,16 +18,17 @@
 [iqiq]:https://raw.iqiq.io
 
 https://github.com/chenzhenyuan/file/blob/image/chenzhenyuan/file/image/logo/com.baidu.svg
+https://github.com/chenzhenyuan/file/blob/image/logo/com.baidu.svg
 
 站点 | 徽标 | 地址
 :-- | :-: | :--
 百度 | <img width="48" src="./com.baidu.svg" /> | [iqiq](/com.baidu.svg)
-百度智能云 | <img width="48" src="./com.baidu.cloud.svg" /> | /chenzhenyuan/file/image/logo/com.baidu.cloud.svg
-淘宝 | <img width="48" src="./com.taobao.svg" /> | /chenzhenyuan/file/image/logo/com.taobao.svg
-网易 | <img width="48" src="./com.163.svg" /> | /chenzhenyuan/file/image/logo/com.163.svg
-微博 | <img width="48" src="./com.weibo.svg" /> | /chenzhenyuan/file/image/logo/com.weibo.svg
-知乎 | <img width="48" src="./com.zhihu.svg" /> | /chenzhenyuan/file/image/logo/com.zhihu.svg
-开源中国 | <img width="48" src="./net.oschina.svg" /> | /chenzhenyuan/file/image/logo/net.oschina.svg
+百度智能云 | <img width="48" src="./com.baidu.cloud.svg" /> | /com.baidu.cloud.svg
+淘宝 | <img width="48" src="./com.taobao.svg" /> | /com.taobao.svg
+网易 | <img width="48" src="./com.163.svg" /> | /com.163.svg
+微博 | <img width="48" src="./com.weibo.svg" /> | /com.weibo.svg
+知乎 | <img width="48" src="./com.zhihu.svg" /> | /com.zhihu.svg
+开源中国 | <img width="48" src="./net.oschina.svg" /> | /net.oschina.svg
  
  
 Site Name | LOGO | raw mirror
